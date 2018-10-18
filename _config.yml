@@ -83,18 +83,18 @@ author:
   name             : "David Nuñez"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  location         : "Málaga, Spain"
+  employer         : "NuCypher"
+  googlescholar    : "https://scholar.google.es/citations?user=ZrFtjVYAAAAJ&hl=es"
+  email            : "test@test.com"
+  uri              : "https://scholar.google.es/citations?user=ZrFtjVYAAAAJ&hl=es"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cygnusv"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,10 +103,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://crypto.stackexchange.com/users/12327/cygnusv
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "david__nunez"
   vine             :
   weibo            :
   xing             :
